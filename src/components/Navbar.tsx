@@ -26,7 +26,7 @@ export default function Navbar() {
           <div className="flex items-center">
             <Link to="/" className="flex-shrink-0 flex items-center gap-3">
               <img 
-                src="/public/Esty's .jpeg" 
+                src="/Esty's .jpeg" 
                 alt="Esty's Strands Elite Logo" 
                 className="h-12 w-12 object-contain rounded-full"
                 referrerPolicy="no-referrer"

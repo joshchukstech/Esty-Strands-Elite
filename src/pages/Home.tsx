@@ -110,7 +110,7 @@ export default function Home() {
               title: "Wig Ventilation & Installation",
               desc: "Expert ventilation of frontal, closure, full lace, and braided wigs with flawless installation.",
               icon: <Sparkles className="w-8 h-8 text-rose-500" />,
-              img: "/public/Esty's 1.jpeg"
+              img: "/Esty's 1.jpeg"
             },
             {
               title: "Makeup & Gele Tying",
